@@ -1,0 +1,6 @@
+C:\Users\eldar\OneDrive\Рабочий стол\Projects\Gauss\Gauss\bin\Debug\Gauss.exe.config
+C:\Users\eldar\OneDrive\Рабочий стол\Projects\Gauss\Gauss\bin\Debug\Gauss.exe
+C:\Users\eldar\OneDrive\Рабочий стол\Projects\Gauss\Gauss\bin\Debug\Gauss.pdb
+C:\Users\eldar\OneDrive\Рабочий стол\Projects\Gauss\Gauss\obj\Debug\Gauss.csprojAssemblyReference.cache
+C:\Users\eldar\OneDrive\Рабочий стол\Projects\Gauss\Gauss\obj\Debug\Gauss.exe
+C:\Users\eldar\OneDrive\Рабочий стол\Projects\Gauss\Gauss\obj\Debug\Gauss.pdb
